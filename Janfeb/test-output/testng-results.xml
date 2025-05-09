@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-28T14:41:25 IST" name="Default suite" finished-at="2025-01-28T14:41:54 IST" duration-ms="29058">
+    <groups>
+    </groups>
+    <test started-at="2025-01-28T14:41:25 IST" name="Default test" finished-at="2025-01-28T14:41:54 IST" duration-ms="29058">
+      <class name="testng.ExecutionOrder">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testng.ExecutionOrder@1bb5a082]" started-at="2025-01-28T14:41:25 IST" name="beforeTest" finished-at="2025-01-28T14:41:31 IST" duration-ms="6786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="peachmode()[pri:0, instance:testng.ExecutionOrder@1bb5a082]" started-at="2025-01-28T14:41:32 IST" name="peachmode" finished-at="2025-01-28T14:41:35 IST" duration-ms="3826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- peachmode -->
+        <test-method signature="pinterest()[pri:0, instance:testng.ExecutionOrder@1bb5a082]" started-at="2025-01-28T14:41:35 IST" name="pinterest" finished-at="2025-01-28T14:41:37 IST" duration-ms="1952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pinterest -->
+        <test-method signature="seleniumdev()[pri:0, instance:testng.ExecutionOrder@1bb5a082]" started-at="2025-01-28T14:41:37 IST" name="seleniumdev" finished-at="2025-01-28T14:41:40 IST" duration-ms="2431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumdev -->
+        <test-method signature="snapchat()[pri:0, instance:testng.ExecutionOrder@1bb5a082]" started-at="2025-01-28T14:41:40 IST" name="snapchat" finished-at="2025-01-28T14:41:42 IST" duration-ms="2670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- snapchat -->
+        <test-method signature="techlearn()[pri:0, instance:testng.ExecutionOrder@1bb5a082]" started-at="2025-01-28T14:41:42 IST" name="techlearn" finished-at="2025-01-28T14:41:49 IST" duration-ms="6828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- techlearn -->
+        <test-method signature="twitter()[pri:0, instance:testng.ExecutionOrder@1bb5a082]" started-at="2025-01-28T14:41:49 IST" name="twitter" finished-at="2025-01-28T14:41:54 IST" duration-ms="4415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twitter -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testng.ExecutionOrder@1bb5a082]" started-at="2025-01-28T14:41:54 IST" name="afterTest" finished-at="2025-01-28T14:41:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testng.ExecutionOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,12 @@
+2025-02-04 13:32:53,011 [main] INFO Google Search - chrome browser launched
+2025-02-04 13:32:55,197 [main] INFO Google Search - wait for 2seconds
+2025-02-04 13:43:13,441 [main] INFO Google Search - chrome browser launched
+2025-02-04 13:43:15,583 [main] INFO Google Search - wait for 2seconds
+2025-02-04 13:43:18,154 [main] INFO Google Search - navigate to the google application
+2025-02-04 13:45:59,834 [main] INFO Google Search - chrome browser launched
+2025-02-04 13:46:01,992 [main] INFO Google Search - wait for 2seconds
+2025-02-04 13:46:04,764 [main] INFO Google Search - navigate to the google application
+2025-02-04 13:46:04,933 [main] INFO Google Search - in google search text enter selenium
+2025-02-27 22:41:07,531 [main] INFO Google Search - chrome browser launched
+2025-02-27 22:41:09,626 [main] INFO Google Search - wait for 2seconds
+2025-02-27 22:43:44,064 [main] INFO Google Search - navigate to the google application
